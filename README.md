@@ -1,10 +1,9 @@
 ### Hi there 👋
 ## Profile stats :
 ![](https://komarev.com/ghpvc/?username=Francois284Modz&color=red&style=flat-square)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Francois284Modz&count_private=true&show_icons=true&theme=radical)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Francois284Modz&show_icons=true&theme=radical)<br/>
-<!--
-**Francois284Modz/francois284modz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github-readme-stats.vercel.app/api?username=Francois284Modz&count_private=true&show_icons=true&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Francois284Modz&show_icons=true&theme=dark)<br/>
+
 
 Here are some ideas to get you started:
 
@@ -16,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
